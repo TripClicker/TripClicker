@@ -2,5 +2,5 @@
 Read here: [Terms of Use](https://tripclicker.xyz/Terms.txt).
 [Our Website is Here!](https://tripclicker.xyz/)!!
 
-
-Please go to releases, and download!
+# How To Download!
+Please go to releases of the repo, and download!
