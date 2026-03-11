@@ -4,3 +4,5 @@ Read here: [Terms of Use](https://tripclicker.xyz/Terms.txt).
 
 # How To Download!
 Please go to releases of the repo, and download!
+
+# by the way, I am silently contributing to the [Raven#](https://github.com/ravensharp/raven-sharp), try if you interested.
